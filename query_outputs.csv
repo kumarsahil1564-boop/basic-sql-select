@@ -1,0 +1,11 @@
+query_no,query,output_summary
+1,SELECT * FROM employees,Displays all 10 employees
+2,SELECT employee_name department FROM employees,Displays employee names and departments
+3,WHERE department = IT,Displays Rahul Aman and Pooja
+4,WHERE salary > 45000,Displays employees earning above 45000
+5,WHERE city = Delhi,Displays employees from Delhi
+6,WHERE salary BETWEEN 40000 AND 50000,Displays employees earning between 40000 and 50000
+7,ORDER BY salary ASC,Displays employees from lowest to highest salary
+8,ORDER BY salary DESC,Displays employees from highest to lowest salary
+9,WHERE department = IT ORDER BY salary DESC,Displays IT employees by highest salary
+10,WHERE city = Delhi ORDER BY employee_name ASC,Displays Delhi employees alphabetically

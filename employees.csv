@@ -1,0 +1,11 @@
+employee_id,employee_name,department,salary,city
+1,Rahul,IT,45000,Delhi
+2,Priya,HR,38000,Noida
+3,Aman,IT,52000,Delhi
+4,Neha,Sales,41000,Ghaziabad
+5,Rohit,Finance,48000,Meerut
+6,Anjali,HR,36000,Delhi
+7,Vikas,Sales,55000,Noida
+8,Pooja,IT,60000,Ghaziabad
+9,Karan,Finance,43000,Delhi
+10,Simran,Sales,47000,Meerut
